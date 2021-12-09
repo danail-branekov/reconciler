@@ -26,7 +26,7 @@ import (
 
 const (
 	VersionLocal         = "local"
-	defaultRepositoryURL = "https://github.com/kyma-project/kyma"
+	defaultRepositoryURL = "https://github.com/danail-branekov/kyma"
 	wsReadyIndicatorFile = "workspace-ready.yaml"
 )
 
